@@ -1,6 +1,6 @@
-const cool = "cool";
+const imSanta = "imSanta";
 
-if (cool == "cool") {
+if (imSanta == "imSanta") {
     console.log("heyho");
 } else {
     console.log("still failure");
